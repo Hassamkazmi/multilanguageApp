@@ -1,0 +1,17 @@
+{
+  "logo": "../../../2.png",
+  "app_title":"MKS Racing",
+  "language": "English",
+  "home": "Home",
+  "about":"About",
+  "racecard":"Race Card",
+  "statistic":"Statistic",
+  "race_course":"Race Course",
+  "competition":"Competition",
+  "sponsor":"Sponsor",
+  "section":"Instead, it will copy all the configuration files and the transitive dependencies right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.",
+  "img1":"../../../3.jpg",
+  "img1title":"This is first image",
+  "img2":"../../../4.jpeg",
+  "img2title":"This is second image"
+}
