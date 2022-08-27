@@ -37,3 +37,9 @@ export const fetchService = createAsyncThunk('service/fetch' , async () => {
     const data = response.data;
     return data.data;
 })
+
+export const fetchAmbulance = createAsyncThunk('ambulance/fetch' , async () => {
+    const response = await axios.get('/api/v1/CardItems')
+    const res = response.data
+    return res.data
+})
